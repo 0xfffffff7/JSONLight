@@ -4,7 +4,7 @@ JSONLight
 JSON Lightweight Parser for C#.  
 
 * How to  
-  JSONLight json = new JSONLight(jsontext);
+  JSONLight json = new JSONLight(jsontext);  
   Dictionary<string, object> dict = json.Parse();  
   
   string jsonSerialize = json.Serialize();  
