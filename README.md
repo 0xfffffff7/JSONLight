@@ -10,7 +10,7 @@ JSON Lightweight Parser for C#.
   string jsonSerialize = json.Serialize();  
   
 * Return Value  
-  Top Level DictionaryKey is Empty. 
+  Top Level DictionaryKey is Empty.  
    Dictionary< "", Dictionary<string,object> >  
   
   Secound Level Dictionary is Key and Value of JsonObject.
